@@ -1,1 +1,1 @@
-# This is a brief overview of kickstart-api-service
+# This is a brief overview of kickstart-api-service application
