@@ -6,21 +6,25 @@ Note: I have mentioned in which your resposne should be like beside the titles. 
 Language : (your name -- reason)
 Backend :
 Java --- (Manoj chitabathina -- I am voting for this because thats where i am strong in ) 
+JAVA --- (PRANAV RAYAPROLU)--- JAVA has latest frameworks and also out of all we can integrate easy with any kind of servoces  
 c    ---
 c++  ---
 python---
 
 FrontEnd:
 Angular --- (Manoj Chitabathina -- because it is new emerging technology which can lot of stuff IMO)
+ANGULAR OR REACT ---(PRANAV RAYAPROLU) --- angular is good as we have folks who has experience, I also pick react coz for Application(mobile) development it is easy to convert.
 JS      ---
 reactJS ---
 
 framework :  (your name -- reason)
 Spring Boot --- (Manoj chitabathina -- because of its auto configuartion magic and the added benefits you could get along with it)
+SPRING BOOT--- (PRANAV RAYAPROLU) it takes care of all the configurations and makes our work easy  
 Spring MVC --- 
 
 Database: (your name -- reason)
 MySQL --- (Manoj Chitabathina -- because its free and it is RDBMS and its easy )
+MYSQL AND MONGO ---(PRANAV RAYAPROLU)--- mysql is simple and easy to use for storing data, mongo db if we want to clustering.
 OracleDB ---
 Postgresql ---(Manoj chitabathina -- also this one because i know osme stuff in here and it can store JSON too , but it might be slow sometimes and documentation is not clear too sometimes)
 MongoDB --- 
@@ -32,30 +36,10 @@ DB2     ---
 (we need to figure out a way to setup rds for this db so that when we deploy to aws or other server we should link it)
 
 Messaging Queues: (your name -- reason)
-Active MQ  ---
+Active MQ  ---(PRANAV RAYAPROLU) -- active MQ I worked on and Infact am okay for any queue. 
 rabbit MQ --- (Manoj chitabathina -- also this because i know how to use this. simple and quick and very reliable)
 kafka    ----(Manoj chitabathina -- beacuse i dont know about this and this is something i wanted to know)
 IBM MQ ---
 
-Security: (your name -- reason)
-Spring Security:(Manoj chitabathina -- because we can have the control over it and its free and  i dont know whether others are free or not )
-some other 3rd party Login apis (ex: google, aws cognito, Okta.. etc)
-
-
-Server: 
-EC2 -- 
-suggest any if you know any other -- 
-
-project type:
-Maven -- 
-Gradle --
-
-docker:
-(Manoj chitabathina -- and its a nice to have )
-
-
-Please add anything that i might have missed here and something you guys feel like to be added. 
-Thanks everyone.
-
-
-
+Security: (your name -- reason) 
+(PRANAV RAYAPROLU) --- SPRING SECURITY as it is easy to integrate with springs and it has LDAP, tokenization and certificate security which is helpful  
