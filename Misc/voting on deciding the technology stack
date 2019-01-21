@@ -43,3 +43,21 @@ IBM MQ ---
 
 Security: (your name -- reason) 
 (PRANAV RAYAPROLU) --- SPRING SECURITY as it is easy to integrate with springs and it has LDAP, tokenization and certificate security which is helpful  
+
+Server: 
+EC2 -- 
+Tomcat to run locally, using jetty plugin (PRANAV RAYAPROLU)
+suggest any if you know any other -- 
+
+project type:
+Maven -- 
+Gradle --
+Anything is fine for me, but maven makes work easier than gradle, (PRANAV RAYAPROLU)
+
+docker:
+(Manoj chitabathina -- and its a nice to have )
+(PRANAV RAYPROLU) I am fine with Docker
+
+
+Please add anything that i might have missed here and something you guys feel like to be added. 
+Thanks everyone.
