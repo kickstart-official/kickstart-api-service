@@ -7,6 +7,7 @@ Language : (your name -- reason)
 Backend :
 Java --- (Manoj chitabathina -- I am voting for this because thats where i am strong in ) 
 JAVA --- (PRANAV RAYAPROLU)--- JAVA has latest frameworks and also out of all we can integrate easy with any kind of servoces  
+Java --- (Abhishek Janagam) -- As I want to learn more and improve in this. And this is only Programming language that I am familiar with.
 c    ---
 c++  ---
 python---
@@ -14,24 +15,27 @@ python---
 FrontEnd:
 Angular --- (Manoj Chitabathina -- because it is new emerging technology which can lot of stuff IMO)
 ANGULAR OR REACT ---(PRANAV RAYAPROLU) --- angular is good as we have folks who has experience, I also pick react coz for Application(mobile) development it is easy to convert.
+Angular --- (Abhishek Janagam) --- I started to get involved into this so i will go with angular 
 JS      ---
 reactJS ---
 
 framework :  (your name -- reason)
 Spring Boot --- (Manoj chitabathina -- because of its auto configuartion magic and the added benefits you could get along with it)
-SPRING BOOT--- (PRANAV RAYAPROLU) it takes care of all the configurations and makes our work easy  
+SPRING BOOT--- (PRANAV RAYAPROLU) it takes care of all the configurations and makes our work easy
+Spring Boot --- (Abhishek Janagam) --- It takes care of all complex configuration for us and this helps us to focus more on Productive stuff. Saying so I am OK with MVC too.  
 Spring MVC --- 
 
 Database: (your name -- reason)
 MySQL --- (Manoj Chitabathina -- because its free and it is RDBMS and its easy )
 MYSQL AND MONGO ---(PRANAV RAYAPROLU)--- mysql is simple and easy to use for storing data, mongo db if we want to clustering.
-OracleDB ---
+MySQL --- (Abhishek Janagam) --- I am fine with this as this is RDBMS and also stores value in key-value pair we can use MAP to store the data after retrieving. 
+OracleDB --- (Abhishek Janagam) --- I am fine with this as this is RDBMS and also stores value in key-value pair we can use MAP to store the data after retrieving.
 Postgresql ---(Manoj chitabathina -- also this one because i know osme stuff in here and it can store JSON too , but it might be slow sometimes and documentation is not clear too sometimes)
-MongoDB --- 
+MongoDB ---  (Abhishek Janagam) --- I am fine with this but this takes/costs us time/money if application is complex and we need more DB calls, Also Bit complex if we dig deep. Still I am fine this.
 couchbase ---
 cassandra --- 
 DynamoDB  --- 
-DB2     ---
+DB2     --- (Abhishek Janagam) --- I am fine with this as this is RDBMS and also stores value in key-value pair we can use MAP to store the data after retrieving.
 
 (we need to figure out a way to setup rds for this db so that when we deploy to aws or other server we should link it)
 
@@ -39,18 +43,20 @@ Messaging Queues: (your name -- reason)
 Active MQ  ---(PRANAV RAYAPROLU) -- active MQ I worked on and Infact am okay for any queue. 
 rabbit MQ --- (Manoj chitabathina -- also this because i know how to use this. simple and quick and very reliable)
 kafka    ----(Manoj chitabathina -- beacuse i dont know about this and this is something i wanted to know)
-IBM MQ ---
+IBM MQ --- (Abhishek Janagam) -- I am fine with any MQ's just configuration will differ underlying logic will be same i believe
 
 Security: (your name -- reason) 
 (PRANAV RAYAPROLU) --- SPRING SECURITY as it is easy to integrate with springs and it has LDAP, tokenization and certificate security which is helpful  
+OAuth -- (Abhishek Janagam) -- I am familiar with this a little and this has many examples online if we got stuck.
 
 Server: 
 EC2 -- 
 Tomcat to run locally, using jetty plugin (PRANAV RAYAPROLU)
+JBoss -- 
 suggest any if you know any other -- 
 
 project type:
-Maven -- 
+Maven -- (Abhishek Janagam) -- Maven is more familiar to me and 90% of organizations use this.
 Gradle --
 Anything is fine for me, but maven makes work easier than gradle, (PRANAV RAYAPROLU)
 
