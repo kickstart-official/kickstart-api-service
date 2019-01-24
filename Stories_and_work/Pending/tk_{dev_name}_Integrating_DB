@@ -1,0 +1,6 @@
+Description: Setting up a DB to the base application(API)
+TODO:
+    ->integarate the database to the base application 
+    ->Add necessary information to download the database to any local machine so that the application will run with out failing in readme.md file 
+
+When done, the project should be sucessfully run ans store data in any local machine 

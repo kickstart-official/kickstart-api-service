@@ -1,0 +1,6 @@
+Description: Integrating spring profiling
+TODO:
+    ->integarate the spring profiling to the base application 
+    ->Add necessary information in readme.md file 
+
+When done, the project should be sucessfully run differently when runnning in different profiles

@@ -1,0 +1,5 @@
+Description: Investigate on setting up and aws account 
+TODO:
+    ->create a login credentials for the kickstart-offical in AWS
+
+When done, anyone who have the credentials can login to the aws server

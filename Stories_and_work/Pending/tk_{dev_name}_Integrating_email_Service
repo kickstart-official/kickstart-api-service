@@ -1,0 +1,7 @@
+Description: Integrating email service
+TODO:
+    ->Investigate and email service and integrate with base application  
+    ->create an endpoint to send out a test email when running in local machine
+    ->Add necessary information in readme.md file 
+
+When done, the project should send a test email when triggered the endpoint

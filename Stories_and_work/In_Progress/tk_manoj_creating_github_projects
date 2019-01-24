@@ -1,0 +1,7 @@
+Description: Creating a Github project which runs in local machines
+TODO:
+    ->create an API project
+    ->create a UI project
+    ->add the information on how to run in local in Readme.md file i github.
+
+When done, the projects should be able to clone into any machine and should be able to run by following the steps
