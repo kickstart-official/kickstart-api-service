@@ -1,0 +1,13 @@
+--> Developing a home page for application, in which basic information is available
+
+TODO:
+			--> Display title
+			--> Display Logo
+			--> Display discription
+			--> Display login and register button(After clicking on login and register button, respective pages should open)
+			--> Display contact details
+			--> Display articles
+			--> Display About us
+			--> Display What we do
+			
+After competion of home page we can clone the files to GITHUB UI project, and you can open your local system for any further improvement.
